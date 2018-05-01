@@ -30,7 +30,7 @@ else:
     # 固定位置
     COORDINATES = '139.767097,35.681154'        # 東京駅
 
-
+# GIT練習
 
 RequestUrl = API_URL + '?appid={}&coordinates={}&output={}'.format(API_ID,COORDINATES,OUTPUT)
 
